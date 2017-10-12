@@ -236,5 +236,6 @@ int main() {
 
    fclose(showOutput);
    fclose(fanswer);
+   system("PAUSE");
    return 0;
 }
