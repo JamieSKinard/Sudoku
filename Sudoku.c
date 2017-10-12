@@ -1,3 +1,4 @@
+/**Author:21300505 LEE Kihyuk, 21500788 HEO Kyujin, 21600137 KIM Jongseong*/
 #include "z3.h"
 #include <stdio.h>
 #include <stdlib.h>
